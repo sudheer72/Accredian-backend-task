@@ -18,8 +18,8 @@ Welcome to the backend service for the Refer & Earn application! This service ha
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Chandan8018/AccredianBackend.git
-    cd AccredianBackend
+    git clone https://github.com/sudheer72/Accredian-backend-task
+    cd Accredian-backend-task
     ```
 
 2. **Backend Setup**
@@ -29,14 +29,6 @@ Welcome to the backend service for the Refer & Earn application! This service ha
 
 3. **Environment Variables**
     - Create a `.env` file in the root directory and add your MySQL URI, EMAIL, and other necessary environment variables.
-
-4. **.env**    
-    ```bash
-    DATABASE_URL="mysql://userName:password@localhost:3306/refer_and_earn"
-    EMAIL="name@gmail.com"
-    PASSWORD="zhdwrvnm*****"
-    PORT=1234
-    ``` 
 
 5. **Run Prisma migrations**
     ```bash
@@ -74,8 +66,8 @@ Welcome to the backend service for the Refer & Earn application! This service ha
 ## Contact
 For any questions or inquiries, please contact:
 
-- Author: Chandan Kumar Sahoo
-- Email: chandankumarsahoo19@gmail.com
-- GitHub: https://github.com/Chandan8018/
+- Author: Sudheer Ravi
+- Email: sudheerraavi777@gmail.com
+- GitHub: https://github.com/sudheer72
 
 Feel free to reach out for any questions, suggestions, or contributions. Happy coding!
